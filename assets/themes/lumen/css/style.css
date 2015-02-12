@@ -42,20 +42,6 @@ footer {
     margin-top: 3em;
 }
 
-.panorama {
-    background: url('/assets/images/cape-town-panorama.jpg') no-repeat;
-    min-height: 400px;
-    color: #fff;
-}
-
- .img-responsive {
+ .img-responsive.img-center {
     margin: 0 auto;
 }
-
-/*.wood-bg {*/
-    /*background: url('/assets/images/stacked-wood.jpg');*/
-/*position: absolute;*/
-    /*opacity: 0.4;*/
-    /*display: block;*/
-    /*min-height: 100px;*/
-/*}*/
