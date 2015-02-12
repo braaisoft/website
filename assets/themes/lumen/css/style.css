@@ -1,0 +1,61 @@
+body {
+    font-size: 18px;
+    line-height: 1.62em;
+}
+
+h1, h2, h3 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.jumbo-lead {
+    color: #444;
+    font-size: 3.6em;
+    font-weight: 700;
+    letter-spacing: -0.07em;
+    margin-bottom: 0.62em;
+}
+
+.navbar-brand {
+    padding-top: 12px;
+}
+
+.navbar-default {
+    border-bottom: 1px solid #eee;
+    background: inherit;
+}
+
+.content p {
+    max-width: 32em;
+}
+
+footer {
+    border-top: 1px solid #eee;
+    padding-top: 1.62em;
+    margin-top: 3em;
+}
+
+.panorama {
+    background: url('/assets/images/cape-town-panorama.jpg') no-repeat;
+    min-height: 400px;
+    color: #fff;
+}
+
+ .img-responsive {
+    margin: 0 auto;
+}
+
+/*.wood-bg {*/
+    /*background: url('/assets/images/stacked-wood.jpg');*/
+/*position: absolute;*/
+    /*opacity: 0.4;*/
+    /*display: block;*/
+    /*min-height: 100px;*/
+/*}*/
