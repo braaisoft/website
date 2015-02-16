@@ -36,8 +36,9 @@ class: front
     <div class="well">
     <h3 class="text-center" style="margin-top:0;">We're Hiring!</h3>
     <div class="text-center">
-    <img src="{{ BASE_PATH }}/assets/images/good-old-braai.jpg" class="img-responsive img-center img-rounded" /></div>
-    <p class="text-center1 text-muted1">Do you love Clojure / ClojureScript? Do you love to braai?</p>
+    <p>
+    <img src="{{ BASE_PATH }}/assets/images/good-old-braai.jpg" class="img-responsive img-center img-rounded" /></p></div>
+    <p class="text-center1 text-muted1">Do you love writing Clojure or ClojureScript while nursing a fire in the background? Talk to us.</p>
     <p><a class="btn btn-success btn-sm" href="{% post_url 2015/2015-02-12-hiring %}">Apply at Braaisoft</a></p>
     </div></div>
 
