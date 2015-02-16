@@ -2,14 +2,16 @@
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
 
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
-    </div>
+<div class="row1 post-full">
+  <div class="col-xs-121">
+
     <div class="content">
       {{ content }}
     </div>
+
+      <div class="date text-muted">
+          <span>Published {{ page.date | date_to_long_string }}</span>
+      </div>
 
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
