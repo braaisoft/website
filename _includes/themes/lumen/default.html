@@ -20,6 +20,7 @@
 
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ BASE_PATH}}/assets/fonts/proxima-nova.css" rel="stylesheet" type="text/css" media="all">
 
     <link href="{{ BASE_PATH }}/assets/images/favicon.ico" rel="shortcut icon">
 
@@ -77,20 +78,6 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
-
-<script type="text/javascript">
-    WebFontConfig = {
-        google: { families: [ 'Quicksand:400,700:latin' ] }
-    };
-    (function() {
-        var wf = document.createElement('script');
-        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-                '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-        wf.type = 'text/javascript';
-        wf.async = 'true';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(wf, s);
-    })(); </script>
 
 </body>
 </html>

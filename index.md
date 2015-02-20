@@ -6,7 +6,7 @@ class: front
         
 <div>
     <a href="{{ BASE_PATH }}">
-       <img src="{{ BASE_PATH }}/assets/images/braaisoft-logo_671x100.png" class="img-responsive" alt="Braaisoft" style="margin: 2.4em 0 1.6em 0;" />
+       <img src="{{ BASE_PATH }}/assets/images/braaisoft-logo-2_540x112.png" class="img-responsive" alt="Braaisoft" style="margin: 2.4em 0 1.6em 0;" />
     </a>
 </div>
 
