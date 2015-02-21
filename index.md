@@ -17,7 +17,7 @@ class: front
         <h1 class="jumbo-lead">We solve retail business problems with software.</h1>
     
         <p class="lead">
-            <strong>Braai</strong> is a traditional South African social gathering around an open fire. It represents the shared joy, laughter and merriment of cooked food over warm coals.
+            <strong>Braai</strong> is a traditional South African social gathering around an open fire. It represents the shared joy, laughter and merriment of cooked food over an open fire, fueled by warm code.
             <a href="about.html">Learn more about Braaisoft</a>.
         </p>
         
@@ -34,11 +34,11 @@ class: front
 
     <div class="col-md-3" style="margin-top: 1.62em;">
     <div class="well">
-    <h3 class="text-center" style="margin-top:0;">We're Hiring!</h3>
+    <h3 class="text-center" style="margin-top:0;">We are hiring!</h3>
     <div class="text-center">
     <p>
     <img src="{{ BASE_PATH }}/assets/images/good-old-braai.jpg" class="img-responsive img-center img-rounded" /></p></div>
-    <p class="text-center1 text-muted1">Do you love writing Clojure or ClojureScript while nursing a fire in the background? Talk to us.</p>
+    <p>Do you love writing Clojure or ClojureScript while nursing a fire in the background? Show us what you've built.</p>
     <p><a class="btn btn-success btn-sm" href="{% post_url 2015/2015-02-12-hiring %}">Apply at Braaisoft</a></p>
     </div></div>
 
